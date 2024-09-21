@@ -9,9 +9,9 @@ Laravel currency is a simple package for current and historical currency exchang
 > Note: This package is an integration for the [Currency](https://github.com/amrshawky/currency) library
 
 ## Requirements
-- PHP >= 7.2
+- PHP >= 8.2
 - Laravel >= 6.0
-- guzzlehttp >= 6.0
+- guzzlehttp >= 7.0
 
 ## Installation
 
